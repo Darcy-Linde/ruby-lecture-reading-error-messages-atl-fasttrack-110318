@@ -1,6 +1,6 @@
 def say_message
   message = "hello_world"
-  puts say_message
+  puts message
 end
 
 say_message
